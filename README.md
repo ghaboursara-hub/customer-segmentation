@@ -36,7 +36,7 @@ and receive the predicted customer segment from the trained K-Means model.
 
 ## 🖥️ GUI Preview
 
-![Customer Segmentation GUI](Screenshot 2026-09-17 204531.png)
+![Customer Segmentation GUI](<Screenshot 2026-09-17 204531.png>)
 
 ### GUI Workflow
 
