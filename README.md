@@ -34,6 +34,9 @@ The application allows users to enter:
 
 and receive the predicted customer segment from the trained K-Means model.
 
+### 🔗 Live Demo
+
+[Launch Customer Segmentation App](https://customer-segmentation-agkzyuzkjxwp8narrnxbke.streamlit.app/)
 ## 🖥️ GUI Preview
 
 ![Customer Segmentation GUI](<Screenshot 2026-09-17 204531.png>)
